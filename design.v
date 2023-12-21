@@ -1,4 +1,10 @@
-// Experiment 3
+/////////////////////////////////////////////////////////////////////////////////////////
+//       Experiment 3
+//Design a digital VLSI architecture to realize the following algorithm. Where N is
+//a 3-bit unsigned integer input. Assume a simple interface with N valid and Sum valid
+//for input and output respectively. Implement the architecture in Verilog, and develop
+//a test bench to verify the design.
+/////////////////////////////////////////////////////////////////////////////////////////
 
 //Top module
 module square_accr_top(
