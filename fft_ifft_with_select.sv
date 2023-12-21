@@ -96,4 +96,5 @@ always @(posedge clk)
             end
      end  
   end
+    
 endmodule
